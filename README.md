@@ -1,4 +1,4 @@
-## 🔄 No Comply: Privacy Reset
+## 🔄 Privacy Lockdown Reset iOS Shortcut
 
 **Companion shortcut for** [Privacy Lockdown](https://github.com/blueibear/privacy-lockdown)
 
